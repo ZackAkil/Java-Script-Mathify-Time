@@ -1,3 +1,7 @@
+/*
+Mathify prototype code 
+Author - Zack Akil, 24 Nov 2015
+*/
 function generateAddition(num){
 
 	ran = Math.floor((Math.random() * (num-1)) + 1);
